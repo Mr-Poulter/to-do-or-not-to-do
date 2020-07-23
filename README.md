@@ -1,6 +1,10 @@
 
 > Open this page at [https://mr-poulter.github.io/to-do-or-not-to-do/](https://mr-poulter.github.io/to-do-or-not-to-do/)
 
+## Tutorial
+
+* [tutorial](/tutorial)
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
