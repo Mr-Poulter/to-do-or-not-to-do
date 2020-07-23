@@ -3,7 +3,7 @@
 
 ## Tutorial
 
-* [tutorial](/tutorial)
+* [tutorial](/to-do-or-not-to-do/tutorial)
 
 ## Use as Extension
 
