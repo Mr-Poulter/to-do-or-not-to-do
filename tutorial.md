@@ -99,6 +99,7 @@ more answers.
 
 You can also show text instead of icons. Just replace the **show icon** block
 with the **show text** block from the **Basic** section.
+
 ```blocks
 input.onButtonPressed(Button.A, function () {
     if (randint(1, 2) == 1) {
