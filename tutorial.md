@@ -102,9 +102,10 @@ with the **show text** block from the **Basic** section.
 
 ```blocks
 input.onButtonPressed(Button.A, function () {
-    if (randint(1, 2) == 1) {
+    let choice = randint(1,2)
+    if (choice == 1) {
         basic.showString("Yes!")
-    } else {
+    } else if (choice == 2) {
         basic.showString("No!")
     }
     basic.pause(500)
